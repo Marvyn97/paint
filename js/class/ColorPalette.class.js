@@ -31,7 +31,6 @@ class ColorPalette{
 
     }
 
-    
-
 
 }
+export default ColorPalette;
